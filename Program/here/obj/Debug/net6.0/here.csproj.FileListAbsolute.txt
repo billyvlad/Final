@@ -1,0 +1,15 @@
+/home/vladya/Рабочий стол/Final/Program/here/bin/Debug/net6.0/here
+/home/vladya/Рабочий стол/Final/Program/here/bin/Debug/net6.0/here.deps.json
+/home/vladya/Рабочий стол/Final/Program/here/bin/Debug/net6.0/here.runtimeconfig.json
+/home/vladya/Рабочий стол/Final/Program/here/bin/Debug/net6.0/here.dll
+/home/vladya/Рабочий стол/Final/Program/here/bin/Debug/net6.0/ref/here.dll
+/home/vladya/Рабочий стол/Final/Program/here/bin/Debug/net6.0/here.pdb
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/here.csproj.AssemblyReference.cache
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/here.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/here.AssemblyInfoInputs.cache
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/here.AssemblyInfo.cs
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/here.csproj.CoreCompileInputs.cache
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/here.dll
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/ref/here.dll
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/here.pdb
+/home/vladya/Рабочий стол/Final/Program/here/obj/Debug/net6.0/here.genruntimeconfig.cache
